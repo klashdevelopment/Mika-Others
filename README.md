@@ -1,7 +1,7 @@
 # MikaClient
  Mika: The best actively-developed Muck hacked client
 ## Using/Commands
-**First of all, get into the game and click Enter to open the chatbot**
+**First of all, get into the game and click Enter to open the chatbox**
 * `/heal` - Heals you for 500 health, shield, and stamina.
 * `/fastak` - Makes your attack speed SUPER fast.
 * `/slotak` - Reverses `/fastak`. NOT IMPLEMENTED
