@@ -1,6 +1,16 @@
 # MikaClient
  Mika: The best actively-developed Muck hacked client
 ## Using/Commands
+**First of all, get into the game and click Enter to open the chatbot**
+* `/heal` - Heals you for 500 health, shield, and stamina.
+* `/fastak` - Makes your attack speed SUPER fast.
+* `/slotak` - Reverses `/fastak`. NOT IMPLEMENTED
+* `/power` - Spawns every powerup at your location, and if you dont move, redeems them two seconds later.
+* `/magnet` - Picks up all nearby floor-items (ex. rocks, shrooms, apples)
+* `/chest` - Opens all powerup chests. Does not redeem them.
+* `/achieve` - Gives you all achievements on Steam.
+* `/muck` - Gives you the **Muck** achievement on Steam.
+* `/drop` - Drops [item] [amount] times. Examples: `/drop rock` or `/drop rock 1` will drop 1 rock.
 ## Installing
 <details markdown="1">
  <summary>I am using Windows</summary>
