@@ -46,3 +46,6 @@
  <summary>I am using Linux</summary>
   Go to steam -> muck -> settings icon -> browse local files -> find the folder with assembly-csharp.dll -> paste the Mika one but replace the filename with `Assembly-CSharp.dll`.
 </details>
+## I want to hack Muck!
+Install dnSpy or JetBrains dotPeek, then open up the Assembly-CSharp.dll in the app. Modify the code, export it, and boom!
+I recommend watching [this video](https://www.youtube.com/watch?v=_j7Plxkvn9Y) to get started.
