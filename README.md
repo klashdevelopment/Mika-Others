@@ -1,7 +1,9 @@
-# MikaClient
+# Mika 4 Muck
+**looking for roblox hacks? see [klashdevelopment/Mika-Roblox](https://github.com/klashdevelopment/Mika-Roblox)!
  Mika: The best actively-developed Muck hacked client
 ## Using/Commands
 **First of all, get into the game and click Enter to open the chatbox**
+** Key: &lt;option&gt; means required. [option] means optional.
 * `/heal` - Heals you for 500 health, shield, and stamina.
 * `/fastak` - Makes your attack speed SUPER fast.
 * `/slotak` - Reverses `/fastak`. NOT IMPLEMENTED
@@ -10,7 +12,7 @@
 * `/chest` - Opens all powerup chests. Does not redeem them.
 * `/achieve` - Gives you all achievements on Steam.
 * `/muck` - Gives you the **Muck** achievement on Steam.
-* `/drop` - Drops [item] [amount] times. Examples: `/drop rock` or `/drop rock 1` will drop 1 rock.
+* `/drop` - Drops &lt;item&gt; [amount] times. Examples: `/drop rock` or `/drop rock 1` will drop 1 rock.
 ## Installing
 <details markdown="1">
  <summary>I am using Windows</summary>
