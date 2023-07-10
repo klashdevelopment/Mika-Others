@@ -25,6 +25,11 @@
 4. "F" disables moving up and down (FLIGHT)
 5. Lava is bouncy and wont hurt you.
 
+**DaniDev's Jelly Drift:**
+1. ~~"X" Slows enemy car~~ broken
+2. "T" Instantly wins race games
+3. Press +/= on the Stats menu to add $5000 cash.
+
 ## Installing
 <details markdown="1">
  <summary>I am using Windows</summary>
