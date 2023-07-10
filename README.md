@@ -9,14 +9,16 @@
 
 
 ### Hacks in the games
-Sam Hogan's MinecraftClone:
+**Sam Hogan's MinecraftClone:**
 1. Q = Fly up
 2. E = Fly down
 3. Plus = speed up
 4. Minus = slow down
 5. Hold F to infinite-jump
 6. You will start with 1000 of each material.
-DaniDev's Karlson:
+
+
+**DaniDev's Karlson:**
 1. "U" Kills all yellow dudes and drops their guns.
 2. "M" Teleports the milk next to you.
 3. "Shift" + "M" Creates a new milk next to you.
