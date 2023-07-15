@@ -17,14 +17,15 @@
 5. Hold F to infinite-jump
 6. You will start with 1000 of each material.
 
-**DaniDev's Balls? aka Balls...**
-(NOT "off the balls", that is seperate)
+**DaniDev's Balls**
 1. Plus/Equals - add 0.5 multiplier
 2. Underscore/Minus - remove 0.5 multiplier
 3. Left Bracket - lose 100 score (times multiplier)
 4. Right Bracket - earn 100 score (times multiplier)
 5. R - Refresh auto bounce.
 6. F - activate autobounce.
+7. At the top of the screen there is a command box.
+8. Command "score <set/add> <amount>" will modify your score. Ex
 
 **DaniDev's Karlson:**
 1. "U" Kills all yellow dudes and drops their guns.
