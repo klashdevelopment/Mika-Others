@@ -27,6 +27,13 @@
 7. At the top of the screen there is a command box.
 8. Command "score <set/add> <amount>" will modify your score. Ex
 
+**TRIRUN (Modded version of DaniDev's RERUN):**
+1. "G" = Gun
+2. "J" = Double Jump
+3. "Z" = Sword
+4. Q/E = Fly up/down
+5. Plus/Minus = Speed
+
 **DaniDev's Karlson:**
 1. "U" Kills all yellow dudes and drops their guns.
 2. "M" Teleports the milk next to you.
