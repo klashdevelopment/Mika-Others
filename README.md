@@ -7,6 +7,9 @@
 
 **looking for unity game hacks? see [klashdevelopment/Mika-Others](https://github.com/klashdevelopment/Mika-Others)!**
 
+## Mika: Raft
+See the [raft.md file](https://github.com/klashdevelopment/Mika-Others/blob/main/Raft.md) for once done - install the same as below
+
 
 ### Hacks in the games
 **Sam Hogan's MinecraftClone:**
